@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Maxwell Productions]]></title>
-        <description><![CDATA[Maxwell Productions]]></description>
+        <title><![CDATA[Maxwell Productions | Life's an Adventure Waiting to be Took]]></title>
+        <description><![CDATA[Maxwell Productions | Life's an Adventure Waiting to be Took]]></description>
         <link>https://thegrid.ai/maxwell-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 13:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 13:30:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maxwell-productions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maxwell Productions]]></title>
+            <description><![CDATA[<article><h1>Maxwell Productions</h1><h2>"Life's an Adventure Waiting to be Took" - Jonah Maxwell</h2><p>Life's an Adventure Waiting to be Took</p></article>]]></description>
+            <link>https://thegrid.ai/maxwell-productions/maxwell-productions/index.html</link>
+            <guid isPermaLink="false">bfd44bdf-946b-4fff-9734-81c472db4e79</guid>
+            <pubDate>Sat, 30 Jan 2016 13:30:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maxwell Productions]]></title>
             <description><![CDATA[<h1>Maxwell Productions</h1>]]></description>
